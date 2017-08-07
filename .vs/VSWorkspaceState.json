@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SuperAdventureApplication",
+    "\\SuperAdventureApplication\\ClassLibrary1"
   ],
+  "SelectedNode": "\\SuperAdventureApplication\\ClassLibrary1\\Class1.cs",
   "PreviewInSolutionExplorer": false
 }
