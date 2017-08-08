@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\SuperAdventureApplication",
-    "\\SuperAdventureApplication\\ClassLibrary1"
+    "\\SuperAdventureApplication\\ClassLibrary1",
+    "\\SuperAdventureApplication\\WindowsFormsApp1",
+    "\\SuperAdventureApplication\\WindowsFormsApp1\\Properties"
   ],
-  "SelectedNode": "\\SuperAdventureApplication\\ClassLibrary1\\Class1.cs",
+  "SelectedNode": "\\SuperAdventureApplication\\WindowsFormsApp1\\Properties\\AssemblyInfo.cs",
   "PreviewInSolutionExplorer": false
 }
